@@ -1,4 +1,4 @@
-FROM php:8-fpm
+FROM php:latest
 
 MAINTAINER Rasoul Karimi <rasoulkarimi.it@gmail.com>
 
